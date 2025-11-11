@@ -95,6 +95,8 @@ O contador agora aparece **no terminal** e **na tela do jogo** a cada captura!
 ** Resultado:**  
 Após capturar **10 pingos**, a queda dos próximos pingos fica **consideravelmente mais rápida**, tornando o jogo mais desafiador.
 
+![drop.gif](drop.gif)
+
 ---
 
 
