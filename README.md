@@ -176,7 +176,7 @@ Gerencia o **gameplay**, renderização, entrada, áudio e colisões.
 - Classe MainMenuScreen: O construtor public MainMenuScreen(final Drop passed_game).
     - Ele recebe uma referência ao objeto Drop (armazenada em game = passed_game)
     - Inicializa a câmera com new OrthographicCamera()
-    - Define constantes estáticas como WIDTH e HEIGHT para a resolução da tela. Isso permite acesso controlado a recursos compartilhados e configura a tela de menu sem valores hardcoded desnecessários.
+    - Define constantes estáticas como WIDTH e HEIGHT para a resolução da tela.
 
 ## Criação de Objetos
 - Em `GameScreen.java`, `bucket = new Rectangle();` cria um objeto retângulo para o balde. Também, `raindrops = new Array<Rectangle>();` cria uma lista dinâmica para armazenar gotas.
